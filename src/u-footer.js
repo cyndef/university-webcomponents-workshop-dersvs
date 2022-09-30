@@ -1,4 +1,5 @@
 import { LitElement, css, html } from 'lit';
+alert('hi');
 /* INSERT STEP D1.1A */
 
 /**
