@@ -115,6 +115,7 @@ u-mark {
   constructor() {
     //make sure anything it extended from LitEelement runs
     super();
+    alert('hi');
   }
 }
 
